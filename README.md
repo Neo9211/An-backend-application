@@ -1,2 +1,2 @@
 # An backend application
- 
+ This app is a back-end application built using .NET Core and SQL. I was responsible for creating the data model, controllers, and routes to ensure smooth functionality. This project was a great learning experience for me as it allowed me to gain a deeper understanding of API development. By building this app, I was able to hone my skills in creating a robust and scalable back-end system that can handle any task thrown its way.
